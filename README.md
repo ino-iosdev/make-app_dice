@@ -1,1 +1,1 @@
-this is the making of the dice app!
+dev change is made
